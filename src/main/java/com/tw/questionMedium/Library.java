@@ -27,7 +27,7 @@ public class Library {
     }
 
     // TODO:
-    //   You can add additional methoods here if you want.
+    //   You can add additional methods here if you want.
     // <-start-
 
     // --end-->
